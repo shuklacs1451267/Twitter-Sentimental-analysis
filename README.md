@@ -1,1 +1,1 @@
-# Projects
+Twitter sentimentals analysis
